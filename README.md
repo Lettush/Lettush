@@ -1,7 +1,7 @@
 ![Banner Image](https://images.unsplash.com/photo-1550063873-ab792950096b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-<h1 align="center">Hi 👋, I'm Jared Neil Hortaleza</h1>
-<h3 align="center">A passionate full-stack developer from the Philippines</h3>
+<h1 align="center">👋 How's it goin'? I'm Jared Neil Hortaleza. 😁</h1>
+<h3 align="center">A passionate full-stack developer from the Philippines.</h3>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Lettush/portfolio).
 
